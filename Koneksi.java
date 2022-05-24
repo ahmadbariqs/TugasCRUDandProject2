@@ -1,3 +1,5 @@
+//Tugas By Group 4: AHMAD BARIQ S, ALEA KENEISHA, HAQI BUDI R
+
 public class Koneksi {
      Connection koneksi;
     
